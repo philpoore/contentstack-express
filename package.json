@@ -52,7 +52,6 @@
   "dependencies": {
 	"async": "2.5.0",
 	"consolidate": "0.14.5",
-	"deasync": "0.1.10",
 	"express": "4.15.3",
 	"graceful-fs": "4.1.11",
 	"htmlclean": "3.0.2",
